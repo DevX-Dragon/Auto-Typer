@@ -1,5 +1,7 @@
+![alt text](image.png)
 # Auto Typer Pro 
 This is an auto-typing tool which simulates actual human typing. 
+
 
 ## Features
 - Human Error Logic (Adjustable Threshold)
